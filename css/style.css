@@ -1,0 +1,11 @@
+.portfolio-item {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
+    width: 480px;
+    height: 480px;
+    overflow: hidden;    
+}
