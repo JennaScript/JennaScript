@@ -705,7 +705,7 @@ footer a:hover {
 
 
 
-.more-about-us {
+.more-about-me {
   background-image: url(../palm_trees.jpeg);
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -715,14 +715,14 @@ footer a:hover {
   text-align: center;
 }
 
-.more-about-us .content {
+.more-about-me .content {
   background-color: rgba(0,0,0,0.8);
   text-align: left;
   padding: 150px 60px;
   color: #fff;
 }
 
-.more-about-us .content h2 {
+.more-about-me .content h2 {
   margin-top: 0px;
   font-size: 34px;
   font-weight: 300;
@@ -730,7 +730,7 @@ footer a:hover {
   margin-bottom: 5px;
 }
 
-.more-about-us .content span {
+.more-about-me .content span {
   font-size: 16px;
   font-weight: 200;
   display: inline-block;
@@ -738,18 +738,18 @@ footer a:hover {
   letter-spacing: 0.5px;
 }
 
-.more-about-us .content p {
+.more-about-me .content p {
   color: #fff;
   font-size: 16px;
   font-weight: 300;
   line-height: 28px;
 }
 
-.more-about-us .content .simple-btn {
+.more-about-me .content .simple-btn {
   margin-top: 30px;
 }
 
-.more-about-us .content .simple-btn a {
+.more-about-me .content .simple-btn a {
   font-size: 13px;
   text-transform: uppercase;
   font-weight: 600;
@@ -762,7 +762,7 @@ footer a:hover {
   transition: all 0.5s;
 }
 
-.more-about-us .content .simple-btn a:hover {
+.more-about-me .content .simple-btn a:hover {
   opacity: 0.5;
 }
 
